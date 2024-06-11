@@ -1,0 +1,17 @@
+1) activate the virtual environment:
+
+	'fastapienv\Scripts\activate.bat'
+
+2) deactivate the environment:
+
+	'deactivate'
+
+
+3) 'uvicorn' is a web server for fast api
+
+4) [imp] to run the virtual environment in pycharm:
+
+- open 'Windows powershell' as administrator
+- 'Set-ExecutionPolicity RemoteSigned'
+- activate the virtual environment in Pycharm
+- 'Set-ExecutionPolicity Restricted'
